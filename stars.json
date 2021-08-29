@@ -37,7 +37,7 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 24994,
+    "stargazers_count": 25009,
     "open_issues_count": 377,
     "forks_count": 2680
   },
@@ -62,8 +62,8 @@
   {
     "full_name": "Homebrew/homebrew-core",
     "stargazers_count": 9711,
-    "open_issues_count": 105,
-    "forks_count": 9601
+    "open_issues_count": 103,
+    "forks_count": 9600
   },
   {
     "full_name": "samber/github-actions-runner",
