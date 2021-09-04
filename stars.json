@@ -7,15 +7,15 @@
   },
   {
     "full_name": "RichardLitt/standard-readme",
-    "stargazers_count": 4164,
+    "stargazers_count": 4168,
     "open_issues_count": 2,
-    "forks_count": 1810
+    "forks_count": 1815
   },
   {
     "full_name": "github/codescanning-jira-integration",
     "stargazers_count": 8,
     "open_issues_count": 12,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "philips-forks/innersource-crawler",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25193,
+    "stargazers_count": 25206,
     "open_issues_count": 377,
-    "forks_count": 2707
+    "forks_count": 2712
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 484,
     "open_issues_count": 35,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "peter-murray/github-security-report-action",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 9746,
-    "open_issues_count": 118,
-    "forks_count": 9610
+    "stargazers_count": 9750,
+    "open_issues_count": 137,
+    "forks_count": 9617
   },
   {
     "full_name": "samber/github-actions-runner",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "dmnemec/copy_file_to_another_repo_action",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 12,
     "forks_count": 60
   },
@@ -98,8 +98,8 @@
   {
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
     "stargazers_count": 888,
-    "open_issues_count": 52,
-    "forks_count": 981
+    "open_issues_count": 53,
+    "forks_count": 980
   },
   {
     "full_name": "SFI-Lero/TREES-InnerSource_Project_Fitness",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 25043,
-    "open_issues_count": 124,
-    "forks_count": 2841
+    "stargazers_count": 25051,
+    "open_issues_count": 121,
+    "forks_count": 2845
   },
   {
     "full_name": "golang/lint",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "kelseyhightower/nocode",
-    "stargazers_count": 48766,
-    "open_issues_count": 3953,
-    "forks_count": 4270
+    "stargazers_count": 48773,
+    "open_issues_count": 3952,
+    "forks_count": 4272
   },
   {
     "full_name": "microsoft/virtual-events",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "DavidAnson/markdownlint",
-    "stargazers_count": 2668,
+    "stargazers_count": 2669,
     "open_issues_count": 53,
     "forks_count": 410
   }
