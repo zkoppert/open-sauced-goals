@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "sec-edgar/sec-edgar",
+    "stargazers_count": 584,
+    "open_issues_count": 16,
+    "forks_count": 209
+  },
+  {
     "full_name": "github/github-artifact-exporter",
     "stargazers_count": 228,
     "open_issues_count": 7,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "RichardLitt/standard-readme",
-    "stargazers_count": 4168,
+    "stargazers_count": 4171,
     "open_issues_count": 2,
-    "forks_count": 1815
+    "forks_count": 1817
   },
   {
     "full_name": "github/codescanning-jira-integration",
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25206,
-    "open_issues_count": 377,
-    "forks_count": 2712
+    "stargazers_count": 25248,
+    "open_issues_count": 381,
+    "forks_count": 2721
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 484,
+    "stargazers_count": 485,
     "open_issues_count": 35,
-    "forks_count": 139
+    "forks_count": 141
   },
   {
     "full_name": "peter-murray/github-security-report-action",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 9750,
-    "open_issues_count": 137,
-    "forks_count": 9617
+    "stargazers_count": 9771,
+    "open_issues_count": 121,
+    "forks_count": 9628
   },
   {
     "full_name": "samber/github-actions-runner",
@@ -80,8 +86,8 @@
   {
     "full_name": "zkoppert/innersource-crawler",
     "stargazers_count": 10,
-    "open_issues_count": 2,
-    "forks_count": 6
+    "open_issues_count": 4,
+    "forks_count": 7
   },
   {
     "full_name": "ryan-rozario/pipreqs-action",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
-    "stargazers_count": 888,
+    "stargazers_count": 892,
     "open_issues_count": 53,
-    "forks_count": 980
+    "forks_count": 982
   },
   {
     "full_name": "SFI-Lero/TREES-InnerSource_Project_Fitness",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 25051,
-    "open_issues_count": 121,
-    "forks_count": 2845
+    "stargazers_count": 25083,
+    "open_issues_count": 120,
+    "forks_count": 2849
   },
   {
     "full_name": "golang/lint",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
-    "stargazers_count": 503,
+    "stargazers_count": 506,
     "open_issues_count": 42,
     "forks_count": 110
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "kelseyhightower/nocode",
-    "stargazers_count": 48773,
-    "open_issues_count": 3952,
-    "forks_count": 4272
+    "stargazers_count": 48796,
+    "open_issues_count": 3953,
+    "forks_count": 4274
   },
   {
     "full_name": "microsoft/virtual-events",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "arturssmirnovs/github-profile-readme-generator",
-    "stargazers_count": 483,
+    "stargazers_count": 486,
     "open_issues_count": 0,
     "forks_count": 45
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 14,
     "forks_count": 2
-  },
-  {
-    "full_name": "DavidAnson/markdownlint",
-    "stargazers_count": 2669,
-    "open_issues_count": 53,
-    "forks_count": 410
   }
 ]
