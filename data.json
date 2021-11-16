@@ -1,15 +1,15 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 544,
-    "open_issues_count": 25,
+    "stargazers_count": 546,
+    "open_issues_count": 26,
     "forks_count": 154
   },
   {
     "full_name": "github/docs",
-    "stargazers_count": 6950,
-    "open_issues_count": 85,
-    "forks_count": 30748
+    "stargazers_count": 7052,
+    "open_issues_count": 86,
+    "forks_count": 31100
   },
   {
     "full_name": "helaili/enterprise-showcase",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 9132,
-    "open_issues_count": 2,
-    "forks_count": 12350
+    "stargazers_count": 9245,
+    "open_issues_count": 4,
+    "forks_count": 12405
   },
   {
     "full_name": "todogroup/awesome-ospo",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "github/rally",
-    "stargazers_count": 86,
+    "stargazers_count": 89,
     "open_issues_count": 17,
     "forks_count": 32
   },
   {
     "full_name": "github/super-linter",
-    "stargazers_count": 7357,
-    "open_issues_count": 28,
-    "forks_count": 736
+    "stargazers_count": 7373,
+    "open_issues_count": 37,
+    "forks_count": 739
   }
 ]
