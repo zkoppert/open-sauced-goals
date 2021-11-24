@@ -19,19 +19,19 @@
   },
   {
     "full_name": "zkoppert/advanced-security-enforcer",
-    "stargazers_count": 6,
+    "stargazers_count": 11,
     "open_issues_count": 2,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "PyGithub/PyGithub",
-    "stargazers_count": 4793,
+    "stargazers_count": 4795,
     "open_issues_count": 147,
-    "forks_count": 1399
+    "forks_count": 1400
   },
   {
     "full_name": "sigmavirus24/github3.py",
-    "stargazers_count": 1066,
+    "stargazers_count": 1067,
     "open_issues_count": 54,
     "forks_count": 389
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "sec-edgar/sec-edgar",
-    "stargazers_count": 620,
+    "stargazers_count": 621,
     "open_issues_count": 20,
     "forks_count": 216
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "RichardLitt/standard-readme",
-    "stargazers_count": 4342,
+    "stargazers_count": 4347,
     "open_issues_count": 3,
     "forks_count": 1970
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 26303,
-    "open_issues_count": 428,
-    "forks_count": 3034
+    "stargazers_count": 26310,
+    "open_issues_count": 431,
+    "forks_count": 3035
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 549,
+    "stargazers_count": 550,
     "open_issues_count": 26,
     "forks_count": 155
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 10266,
-    "open_issues_count": 151,
-    "forks_count": 9909
+    "stargazers_count": 10277,
+    "open_issues_count": 145,
+    "forks_count": 9908
   },
   {
     "full_name": "samber/github-actions-runner",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
-    "stargazers_count": 927,
+    "stargazers_count": 926,
     "open_issues_count": 54,
     "forks_count": 1020
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 25912,
+    "stargazers_count": 25919,
     "open_issues_count": 131,
-    "forks_count": 2925
+    "forks_count": 2927
   }
 ]
