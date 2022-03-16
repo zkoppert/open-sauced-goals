@@ -1,68 +1,68 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 615,
+    "stargazers_count": 617,
     "open_issues_count": 27,
-    "forks_count": 200
+    "forks_count": 202
   },
   {
     "full_name": "github/docs",
-    "stargazers_count": 8699,
-    "open_issues_count": 133,
-    "forks_count": 45521
+    "stargazers_count": 8907,
+    "open_issues_count": 141,
+    "forks_count": 45984
   },
   {
     "full_name": "helaili/enterprise-showcase",
     "stargazers_count": 24,
-    "open_issues_count": 13,
+    "open_issues_count": 17,
     "forks_count": 8
   },
   {
     "full_name": "jhutchings1/Create-ActionsPRs",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "full_name": "zkoppert/innersource-crawler",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "SAP/project-portal-for-innersource",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 2,
     "forks_count": 42
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10261,
+    "stargazers_count": 10276,
     "open_issues_count": 0,
-    "forks_count": 13988
+    "forks_count": 14044
   },
   {
     "full_name": "todogroup/awesome-ospo",
-    "stargazers_count": 349,
+    "stargazers_count": 352,
     "open_issues_count": 1,
     "forks_count": 53
   },
   {
     "full_name": "github/github-artifact-exporter",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 14,
     "forks_count": 29
   },
   {
     "full_name": "github/rally",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 18,
     "forks_count": 34
   },
   {
     "full_name": "github/super-linter",
-    "stargazers_count": 7647,
-    "open_issues_count": 32,
-    "forks_count": 796
+    "stargazers_count": 7653,
+    "open_issues_count": 27,
+    "forks_count": 797
   }
 ]
