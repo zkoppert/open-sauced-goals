@@ -1,7 +1,7 @@
 [
   {
     "full_name": "coroo/pytest-coverage-commentator",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 22,
     "forks_count": 8
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "zkoppert/advanced-security-enforcer",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "PyGithub/PyGithub",
-    "stargazers_count": 5134,
+    "stargazers_count": 5144,
     "open_issues_count": 204,
-    "forks_count": 1465
+    "forks_count": 1466
   },
   {
     "full_name": "sigmavirus24/github3.py",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "srggrs/assign-one-project-github-action",
-    "stargazers_count": 126,
+    "stargazers_count": 129,
     "open_issues_count": 14,
     "forks_count": 48
   },
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "github/github-artifact-exporter",
-    "stargazers_count": 251,
-    "open_issues_count": 14,
+    "stargazers_count": 252,
+    "open_issues_count": 7,
     "forks_count": 29
   },
   {
     "full_name": "RichardLitt/standard-readme",
-    "stargazers_count": 4621,
+    "stargazers_count": 4632,
     "open_issues_count": 3,
-    "forks_count": 2144
+    "forks_count": 2151
   },
   {
     "full_name": "github/ghas-jira-integration",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 12,
     "forks_count": 18
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 27693,
-    "open_issues_count": 367,
-    "forks_count": 3489
+    "stargazers_count": 27763,
+    "open_issues_count": 363,
+    "forks_count": 3501
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 620,
+    "stargazers_count": 623,
     "open_issues_count": 27,
     "forks_count": 206
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 10970,
-    "open_issues_count": 142,
-    "forks_count": 10317
+    "stargazers_count": 11001,
+    "open_issues_count": 155,
+    "forks_count": 10333
   },
   {
     "full_name": "samber/github-actions-runner",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
-    "stargazers_count": 974,
+    "stargazers_count": 979,
     "open_issues_count": 59,
-    "forks_count": 1090
+    "forks_count": 1094
   },
   {
     "full_name": "SFI-Lero/TREES-InnerSource_Project_Fitness",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 27278,
-    "open_issues_count": 54,
-    "forks_count": 3089
+    "stargazers_count": 27313,
+    "open_issues_count": 56,
+    "forks_count": 3096
   }
 ]
