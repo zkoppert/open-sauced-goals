@@ -2,7 +2,7 @@
   {
     "full_name": "coroo/pytest-coverage-commentator",
     "stargazers_count": 31,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 13
   },
   {
@@ -15,7 +15,7 @@
     "full_name": "github/automatic-contrib-prs",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "zkoppert/advanced-security-enforcer",
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "PyGithub/PyGithub",
-    "stargazers_count": 5304,
-    "open_issues_count": 114,
-    "forks_count": 1497
+    "stargazers_count": 5312,
+    "open_issues_count": 115,
+    "forks_count": 1498
   },
   {
     "full_name": "sigmavirus24/github3.py",
     "stargazers_count": 1093,
     "open_issues_count": 52,
-    "forks_count": 400
+    "forks_count": 399
   },
   {
     "full_name": "srggrs/assign-one-project-github-action",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 16,
     "forks_count": 51
   },
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "sec-edgar/sec-edgar",
-    "stargazers_count": 688,
+    "stargazers_count": 690,
     "open_issues_count": 24,
-    "forks_count": 229
+    "forks_count": 230
   },
   {
     "full_name": "github/github-artifact-exporter",
     "stargazers_count": 262,
     "open_issues_count": 10,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "RichardLitt/standard-readme",
-    "stargazers_count": 4831,
+    "stargazers_count": 4838,
     "open_issues_count": 4,
-    "forks_count": 2280
+    "forks_count": 2287
   },
   {
     "full_name": "github/ghas-jira-integration",
     "stargazers_count": 32,
     "open_issues_count": 14,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "philips-forks/innersource-crawler",
@@ -81,7 +81,7 @@
     "full_name": "kllund/sample-pipeline-files",
     "stargazers_count": 15,
     "open_issues_count": 1,
-    "forks_count": 17
+    "forks_count": 16
   },
   {
     "full_name": "Build5Nines/azure-kung-fu-dockervm",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 28923,
-    "open_issues_count": 364,
-    "forks_count": 3811
+    "stargazers_count": 28968,
+    "open_issues_count": 354,
+    "forks_count": 3833
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 703,
-    "open_issues_count": 16,
-    "forks_count": 290
+    "stargazers_count": 707,
+    "open_issues_count": 17,
+    "forks_count": 293
   },
   {
     "full_name": "peter-murray/github-security-report-action",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 11376,
-    "open_issues_count": 184,
-    "forks_count": 10557
+    "stargazers_count": 11385,
+    "open_issues_count": 150,
+    "forks_count": 10563
   },
   {
     "full_name": "samber/github-actions-runner",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "dmnemec/copy_file_to_another_repo_action",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 17,
-    "forks_count": 120
+    "forks_count": 119
   },
   {
     "full_name": "zkoppert/innersource-crawler",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "joeyism/py-edgar",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 8,
     "forks_count": 51
   },
@@ -153,7 +153,7 @@
     "full_name": "wowthemesnet/mediumish-theme-jekyll",
     "stargazers_count": 1017,
     "open_issues_count": 60,
-    "forks_count": 1136
+    "forks_count": 1138
   },
   {
     "full_name": "SFI-Lero/TREES-InnerSource_Project_Fitness",
@@ -165,7 +165,7 @@
     "full_name": "SAP/project-portal-for-innersource",
     "stargazers_count": 94,
     "open_issues_count": 2,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "zkoppert/go-exercises",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 28468,
-    "open_issues_count": 102,
-    "forks_count": 3203
+    "stargazers_count": 28496,
+    "open_issues_count": 105,
+    "forks_count": 3208
   }
 ]
