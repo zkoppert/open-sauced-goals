@@ -1,15 +1,15 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 716,
+    "stargazers_count": 720,
     "open_issues_count": 16,
-    "forks_count": 313
+    "forks_count": 315
   },
   {
     "full_name": "github/docs",
-    "stargazers_count": 10276,
-    "open_issues_count": 156,
-    "forks_count": 55351
+    "stargazers_count": 10296,
+    "open_issues_count": 138,
+    "forks_count": 55499
   },
   {
     "full_name": "helaili/enterprise-showcase",
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "zkoppert/innersource-crawler",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 2,
     "forks_count": 15
   },
   {
     "full_name": "SAP/project-portal-for-innersource",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 2,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10951,
+    "stargazers_count": 10963,
     "open_issues_count": 2,
-    "forks_count": 15380
+    "forks_count": 15391
   },
   {
     "full_name": "todogroup/awesome-ospo",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 1,
     "forks_count": 55
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "github/super-linter",
-    "stargazers_count": 8021,
-    "open_issues_count": 66,
-    "forks_count": 868
+    "stargazers_count": 8032,
+    "open_issues_count": 42,
+    "forks_count": 872
   }
 ]
